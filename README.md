@@ -1,10 +1,5 @@
 # VoxCeleb
 ## Download
-- 在下面的链接填写表单，你会收到授权的账户和密码
-
-```
-https://docs.google.com/forms/d/e/1FAIpQLSdQhpq2Be2CktaPhuadUMU7ZDJoQuRlFlzNO45xO-drWQ0AXA/viewform?fbzx=7440236747203254000
-```
 
 - 在下面链接找到`Audio and video files`，点击`here`
 
