@@ -4,6 +4,11 @@
 ```
 ./download_data.sh
 ```
+ps: 下载会获得多个分片，我们提供了提取、合并、转换语音格式的脚本
+```
+python dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --extract
+python dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --convert
+```
 ## 方式二：VoxCeleb1/VoxCeleb2官网下载
 
 - 在下面链接找到`Audio and video files`，点击`here`
