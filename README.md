@@ -1,5 +1,6 @@
 # RIR/MUSAN/VoxCeleb1/VoxCeleb2数据集下载
-## 方式一：服务器脚本下载
+## 方式一：服务器脚本下载（推荐）
+此方式提供md5校验
 ```
 ./download_data.sh
 ```
