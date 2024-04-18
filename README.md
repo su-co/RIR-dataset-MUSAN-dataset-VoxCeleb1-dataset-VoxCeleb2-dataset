@@ -1,3 +1,7 @@
+# musan/rir/vox1/vox2
+```
+./download_data.sh
+```
 # VoxCeleb
 ## Download
 
