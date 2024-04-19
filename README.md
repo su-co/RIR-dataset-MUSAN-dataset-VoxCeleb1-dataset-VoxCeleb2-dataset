@@ -6,6 +6,8 @@
 ```
 ps: 下载会获得多个分片，我们提供了提取、合并、转换语音格式的脚本
 ```
+cd data
+mkdir aac
 python dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --extract
 python dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --convert
 ```
