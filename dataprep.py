@@ -20,7 +20,7 @@ from scipy.io import wavfile
 ## ========== ===========
 parser = argparse.ArgumentParser(description = "VoxCeleb downloader")
 
-parser.add_argument('--save_path',     type=str, default="data/download_data", help='Target directory')
+parser.add_argument('--save_path',     type=str, default="data", help='Target directory')
 
 parser.add_argument('--extract',  dest='extract',  action='store_true', help='Enable extract')
 parser.add_argument('--convert',  dest='convert',  action='store_true', help='Enable convert')
