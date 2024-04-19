@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-download_dir=data/download_data
+download_dir=data
 
 . utils/parse_options.sh || exit 1
 
