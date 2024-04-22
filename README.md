@@ -11,6 +11,10 @@ mkdir aac
 python dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --extract
 python dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --convert
 ```
+如果你想要数据增强，运行下面脚本
+```
+python ./dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --augment
+```
 ## 方式二：VoxCeleb1/VoxCeleb2官网下载
 
 - 在下面链接找到`Audio and video files`，点击`here`
