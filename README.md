@@ -4,7 +4,11 @@
 ```
 ./download_data.sh
 ```
-ps: 下载会获得多个分片，我们提供了提取、合并、转换语音格式的脚本
+注意：这个脚本文件缺少vox2_test_aac.zip，如果你需要，请运行下面的指令
+```
+wget https://thor.robots.ox.ac.uk/~vgg/data/voxceleb/vox1a/vox2_test_aac.zip
+```
+下载会获得多个分片，我们提供了提取、合并、转换语音格式的脚本
 ```
 cd data
 mkdir aac
