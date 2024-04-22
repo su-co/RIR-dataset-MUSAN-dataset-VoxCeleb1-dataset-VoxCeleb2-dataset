@@ -15,6 +15,7 @@ python dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --convert
 ```
 python ./dataprep.py --save_path YOUR/DOWNLOAD/DATA/DIR --augment
 ```
+参考文献：[This repository](https://github.com/clovaai/voxceleb_trainer)
 ## 方式二：VoxCeleb1/VoxCeleb2官网下载
 
 - 在下面链接找到`Audio and video files`，点击`here`
